@@ -256,6 +256,9 @@ input {
 }
 
 @media screen and (min-width: 550px){
+  header nav{
+    width: 50%;
+  }
   .navigation{
     font-size: 2.3rem;
   }
